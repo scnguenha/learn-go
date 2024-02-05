@@ -2,11 +2,11 @@
 This is a movies REST API, where we do a CRUD using structs and slices, just for learn and experiment golang.
 
 ## How to run?
-`$ go build && ./web-server`
+`$ go build && ./movies-server`
 
-The server will be listing in port 8080
+The server will be listing in port 8000
 These are valid urls:
-- http://localhost:8080/movies
+- http://localhost:8000/movies
 
 ## What libraries have we used?
 In this project we used the following libraries:
